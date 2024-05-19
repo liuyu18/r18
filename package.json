@@ -25,5 +25,10 @@
 		"prettier": "^3.2.5",
 		"rollup": "^4.17.2",
 		"typescript": "^5.4.5"
-	}
+	},
+	"config": {
+		"commitizen": {
+		  "path": "cz-conventional-changelog"
+		}
+	  }
 }
